@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Laksh42690
-- 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on 
+
 - 📫 How to reach me laksh42690@gmail.com
 
 <!---
